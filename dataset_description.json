@@ -1,0 +1,26 @@
+{
+    "Name": "A cortico-cerebellar loop for motor planning",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This dataset explores the neural mechanisms of motor planning through a cortico-cerebellar loop in mice. Using extracellular recordings, the study investigates how information flows between the anterolateral motor cortex (ALM) and the cerebellum, specifically involving the fastigial nucleus and the thalamus, to maintain motor plans. The data includes recordings from subjects performing a delayed-response task, highlighting the interaction between these regions during the planning phase.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Gao, Zhenyu",
+        "Davis, Courtney",
+        "Thomas, Alyse M.",
+        "Economo, Michael N.",
+        "Abrego, Amada M.",
+        "Svoboda, Karel",
+        "Zeeuw, Chris I. De",
+        "Li, Nuo"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
